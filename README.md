@@ -3,7 +3,9 @@
 
 
 I'm in 1st grade, Busan Software Meister Highschool.
+
 And I wanna be a full stack developer!
+
 Please cheer me up 🎉
 
 #
