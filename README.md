@@ -6,12 +6,6 @@ I'm in 1st grade, Busan Software Meister Highschool.
 
 And I wanna be a full stack developer!
 
-Please cheer me up 🎉
-
-#
-
-I'm learning about 
-C and HTML with VScode, JavaScript with eclipse, and designing with figma 😸
 <!--
 **Myowww/Myowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
