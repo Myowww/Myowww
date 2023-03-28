@@ -1,17 +1,4 @@
-### Hi there 👋
-#### This is me, Myow 😺
-
-
-I'm in 1st grade, Busan Software Meister Highschool.
-
-<hr>
-Email - eahenlee@gmail.com
-
-
-
-Instagram - yehen_12
-
-
+### 안녕하세요 👋
 <!--
 **Myowww/Myowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
