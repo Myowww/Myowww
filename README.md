@@ -1,4 +1,4 @@
-## Learning
+## 📚 Learning
 <ul>
   <li>C</li>
   <li>HTML</li>
@@ -6,7 +6,7 @@
   <li>Java</li>
   </ul>
   
-## Interested in
+## 🎈 Interested in
 <ul>
   <li>Design</li>
   <li>FrontEnd</li>
