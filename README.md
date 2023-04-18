@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
+
+
 <h2>이예흔입니다. 🎶 <br>프론트엔드 겸 디자이너를 꿈꾸고 있어요. 🧸</h2>
 
 <h3>📚 이런 것들을 배우고 있어요!</h3>
@@ -13,4 +16,5 @@
   <li>Design</li>
   <li>FrontEnd</li>
   <li>Making Apps</li>
+  <li>Drawing Characters</li>
 </ul>
