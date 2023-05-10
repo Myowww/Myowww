@@ -1,20 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
 
-<h2>이예흔입니다. 🎶 <br>프론트엔드 겸 디자이너를 꿈꾸고 있어요. 🧸</h2>
+### 이예흔입니다. 🎶 프론트엔드 겸 디자이너를 꿈꾸고 있어요. 🧸
 
-<h3>📚 이런 것들을 배우고 있어요!</h3>
-<ul>
-  <li>C</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Design with Figma</li>
-  </ul>
-  
-<h3>🎈 이런 것에 관심이 있어요!</h3>
-<ul>
-  <li>Design</li>
-  <li>FrontEnd</li>
-  <li>Making Apps</li>
-  <li>Drawing Characters</li>
-</ul>
+---
+
+### 📚 Learning
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
