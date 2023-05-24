@@ -3,6 +3,7 @@
 
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
+<img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
 <a href="https://www.instagram.com/yehen_12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </a>
 
