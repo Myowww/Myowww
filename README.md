@@ -3,8 +3,13 @@
 
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
-<img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
-<a href="https://www.instagram.com/yehen_12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:eahenlee@gmail.com">
+		<img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@myowww">
+		<img alt="Velog" src="https://img.shields.io/badge/Myowww-20C997.svg?&style=flat&logo=Velog&logoColor=white"/>
+	</a>
+  <a href="https://www.instagram.com/yehen_12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </a>
 
 <div align="center"><h3>📚 Studying</h></div>
