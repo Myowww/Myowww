@@ -28,7 +28,3 @@
 
 
 </div>
-
-<div align="center"><h3>🔖 My Git Stats</h3></div> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myowww&layout=compact&theme=dark)
