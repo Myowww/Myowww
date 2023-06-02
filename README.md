@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90)
 
+<div align="center">
+	<h2>디자인하는 개발자, 이예흔입니다.</h2>
+</div>
 
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
