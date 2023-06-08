@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Designer%20and%20Developer&fontSize=60&animation=fadeIn&fontAlignY=38&desc=디자인하는%20개발자%20이예흔입니다&descAlignY=51&descAlign=62)
 
-<div align="center">
-	<h2>디자인하는 개발자, 이예흔입니다.</h2>
-</div>
 
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
@@ -25,6 +22,5 @@
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
 
 </div>
