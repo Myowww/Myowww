@@ -2,7 +2,7 @@
 	<h2>🫥 MY GITHUB 🫥</h2><br>
 	<img src="https://i.pinimg.com/originals/84/2f/fb/842ffba93c01fc3ebe3b2d5817dd388a.jpg">
 </div>
-<br><br><hr>
+<br><br>
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
 	<a href="mailto:eahenlee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" /></a>
