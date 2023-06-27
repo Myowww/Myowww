@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>🫥 MY GITHUB 🫥</h2><br>
-	<img src="https://pbs.twimg.com/media/EoJWUOsVoAIvPCx?format=jpg&name=900x900">
+	<img src="https://i.pinimg.com/originals/84/2f/fb/842ffba93c01fc3ebe3b2d5817dd388a.jpg">
 </div>
 <br><br><hr>
 <div align="center"><h3>✨ SNS</h3></div>
