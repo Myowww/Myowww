@@ -8,7 +8,7 @@
 	<a href="mailto:eahenlee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" /></a>
 	<a href="https://www.instagram.com/yehen_12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br>
 	<a href="https://velog.io/@myowww"><img alt="Velog" src="https://img.shields.io/badge/Myowww-20C997.svg?&style=flat&logo=Velog&logoColor=white"/></a>	<a href="https://www.behance.net/endz_/appreciated"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF.svg?&style=flate&logo=Behance&logoColor=white" /></a>
-	<a href="https://dribbble.com/Endz_"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89.svg?&style=flate&logo=Dribbble&logoColor=white" /></a>
+<!-- 	<a href="https://dribbble.com/Endz_"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89.svg?&style=flate&logo=Dribbble&logoColor=white" /></a> -->
 
     
 
