@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontSize=90)
+
 <div align="center">  
 	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Designer;Back-End+developer" alt="Typing Animation">
 </div>
-<br><br>
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
 	<a href="mailto:eahenlee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" /></a>
@@ -19,13 +19,14 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<br>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=%F0%9F%AB%A7&fontAlign=90)
