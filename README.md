@@ -1,7 +1,5 @@
-<div align="center">
-	<h3>🎈 MY GITHUB 🎈</h3>
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcEKPg6%2FbtqDnxmhiV4%2F8GJ5gUTjVl6SvWaDspCpu1%2Fimg.jpg">
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
+
 <br><br>
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
