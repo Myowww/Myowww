@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90)
-
+<div align="center">  
+	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Designer;Back-End+developer" alt="Typing Animation">
+</div>
 <br><br>
 <div align="center"><h3>✨ SNS</h3></div>
 <div align = center>
