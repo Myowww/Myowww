@@ -4,7 +4,7 @@
 	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Designer;Back-End+developer" alt="Typing Animation">
 </div>
 
-<div align="center"><h3>✨ Contact ✨</h3></div>
+<div align="center"><h3>🐚 Contact 🐚</h3></div>
 <div align = center>
 	<br>
 	<a href="mailto:eahenlee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/eahenlee@gmail.com-EA4335.svg?&style=flate&logo=Gmail&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
     
 
-<div align="center"><br><h3>📚 Studying 📚</h></div>
+<div align="center"><br><h3>📚 Studying</h></div>
 <div align = center>
 
 <div align="center">
