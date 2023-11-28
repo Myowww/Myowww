@@ -4,6 +4,14 @@
 	<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=2f42cd&center=true&width=435&lines=Designer;Back-End+developer" alt="Typing Animation">
 </div>
 
+<div align="center">
+	<h3>PortFolio</h3></div>
+</div>
+
+<div align="center">
+	<a href="https://www.notion.so/c684ae15ed334a38840b2a4821ec71ea?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</div>
+
 <div align="center"><h3>🐚 Contact 🐚</h3></div>
 <div align = center>
 	<br>
